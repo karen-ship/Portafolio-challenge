@@ -1,0 +1,18 @@
+.container{
+    background-color: blueviolet;
+    display: flex;
+    gap: 10px;
+}
+
+.item{
+    color: #FFFFFF;
+    background-color: darkgoldenrod;
+    display: block;
+    padding: 20px;
+}
+
+.item-fuera{
+    background-color: violet;
+    display: block;
+    margin: 20px;
+}
